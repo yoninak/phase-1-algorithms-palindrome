@@ -18,7 +18,7 @@ function isPalindrome(word) {
 */
 
 /*
-  Add written explanation of your solution here
+  Add written explanation of your solution herele
 */
 
 // You can run `node index.js` to view these console logs
